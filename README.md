@@ -16,4 +16,4 @@ WorkAround now wants to release a new web application called WorkAround Explorer
 The objective of the project was to connect files using **import** and **export** modules.
 
 
-#### Please Note: This requires a local server running on the machine
+### Please Note: This requires a local server running on the machine
